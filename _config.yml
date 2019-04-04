@@ -12,7 +12,7 @@
 title: 小信的学习总结
 brief-intro: 去追去闯，去乘风破浪，少年只属于远方
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/Xiaoxin21/Xiaoxin21.github.io" # the base hostname & protocol for your site
+url: "https://Xiaoxin21.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
