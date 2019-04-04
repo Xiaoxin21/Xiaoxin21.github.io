@@ -9,10 +9,10 @@
 # 
 
 
-title: 王闯的技术专栏
-brief-intro: 不是进入状态再去学习，而是先去学习才能找到状态!
+title: 小信的学习总结
+brief-intro: 去追去闯，去乘风破浪，少年只属于远方
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joytom.github.io" # the base hostname & protocol for your site
+url: "https://github.com/Xiaoxin21/Xiaoxin21.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
