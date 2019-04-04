@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<img src="https://raw.githubusercontent.com/joytom/joytom.github.io/master/images/2018-08-14/1.jpg" />
+<!--<img src="https://raw.githubusercontent.com/joytom/joytom.github.io/master/images/2018-08-14/1.jpg" />-->
 
 大家好，欢迎来到我的个人学习小站。
 在慕课网上学习的时候偶然接触到github，并得知利用github pages能够搭建一个免费的网站。
@@ -27,11 +27,11 @@ type: page
 
 ## 联系我
 
-* CSDN：[光头强的博客](https://blog.csdn.net/qq_42249896?t=1&orderby=ViewCount){:target="_blank"}
-* GitHub：[joytom](https://github.com/joytom){:target="_blank"}
-* email：18254040293@163.com
-* QQ:1843622620
-* 微信公众号：十点生活说 
+<!--* CSDN：[光头强的博客](https://blog.csdn.net/qq_42249896?t=1&orderby=ViewCount){:target="_blank"}-->
+* GitHub：[Xiaoxin21](https://Xiaoxin21.github.io){:target="_blank"}
+* email：3109675745@qq.com
+* QQ:3109675745
+* 微信公众号：小信的专栏 
 
 ## 关于本站
 
@@ -44,11 +44,11 @@ type: page
 本站内的一切文章均为原创！如果非原创就会在文章上标注转载地址。真正的用心，经得起检验！
 
 ## 我的生活站
-[生活是生活学习是学习，缺一不可](https://joyjerry.github.io){:target="_blank"}
+[我们应该做到生活和学习更好的统一。](https://Xiaoxin21.github.io){:target="_blank"}
 
-## 友情链接
+<!--## 友情链接-->
 
-[曹名臣的博客](http://poshir.top/){:target="_blank"}\|[xxx](xxxx) \|
+<!--[曹名臣的博客](http://poshir.top/){:target="_blank"}\|[xxx](xxxx) \|-->
 ## Comments
 
 {% include comments.html %}
@@ -71,4 +71,4 @@ type: page
 </div>
 <!-- City版安装代码已完成 -->
 ## 与我交流
-<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1843622620&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1843622620:53" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=3109675745&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:3109675745:53" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
